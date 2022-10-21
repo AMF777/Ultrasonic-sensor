@@ -12,7 +12,6 @@ HC-SR04 and Atmega32
 - ICU
 - LCD
 - GPIO
-- LCD
 - Ultrasonic
 ## Screenshots
 
