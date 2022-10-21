@@ -16,7 +16,7 @@ HC-SR04 and Atmega32
 - Ultrasonic
 ## Screenshots
 
-![App Screenshot1](https://github.com/AMF777/Sales_Invoice_Generator/blob/main/screen_Shot1.png)
+![App Screenshot1](https://github.com/AMF777/Ultrasonic-sensor/blob/main/Capture.JPG)
 ## Tools
 - Eclipse
 - Proteus
